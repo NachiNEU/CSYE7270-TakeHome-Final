@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BP_Enemy.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/LN/6DVD2T7CULW45WG9GMCWV3.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/PG/9YLLWJIRCEPPGZWQFQ8VO3.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/ZR/NU70ZPY64TVMKLKW6IEPZW.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BTS_CheckChaseDistance.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BT_Enemy.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/ABP_Enemy.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BP_AI_Enemy.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/Tasks/Task_ChaseTarget.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BP_Enemy_2.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/AI/BP_AI_Enemy_2.uasset",
+				"C:/Users/sahar/Documents/Unreal Projects/TakeHome_Final/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/9G/ZIZEPAEXZJNJDV51NVYE3R.uasset"
+			]
+		}
+	]
+}
