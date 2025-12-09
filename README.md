@@ -14,6 +14,8 @@ A complete step-by-step walkthrough of the **AI Perception & Pursuit System** is
 This video covers the entire pipeline—from setting up behavior trees and blackboards to implementing PawnSensing, AI Perception, and chase logic—making it easy to follow along and build the system yourself.
 
 
+<img width="705" height="421" alt="image" src="https://github.com/user-attachments/assets/e1a37b0b-45e0-414f-9f6d-74bef2031154" />
+
 ---
 
 ## 🎯 Project Goals
